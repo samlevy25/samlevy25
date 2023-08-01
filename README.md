@@ -64,20 +64,3 @@
   </div>
 </div>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=samlevy25&theme=swift&hide_border=false&include_all_commits=true&count_private=true">
-</p>
-<p align="center">
-  <img width="460" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=samlevy25&theme=swift&hide_border=false">
-</p>
-<p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samlevy25&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
-
----
-<a align="center"  href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=samlevy25&label=Profile%20Views&color=7&icon=0&pretty=false" />
-</a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
