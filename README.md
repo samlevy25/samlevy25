@@ -13,6 +13,8 @@ Hello! I'm a recent graduate in Software Engineering, and I'm thrilled to begin 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samlevy25&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samlevy25&icon=0&color=1)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=samlevy25&label=Profile%20Views&color=7&icon=0&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
