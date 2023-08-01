@@ -5,7 +5,7 @@
 
 :thumbsup: Thank you for visiting my GitHub profile! Looking forward to sharing my work and learning from the community.
 
-[![:thumbsup: Thank you for visiting my GitHub profile! Looking forward to sharing my work and learning from the community.](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 ## 🌐 Socials:
 
