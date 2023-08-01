@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://image.shutterstock.com/image-vector/linkedin-icon-logo-type-260nw-792160864.jpg)](https://linkedin.com/in/SamuelLevy)
+[![LinkedIn]([https://image.shutterstock.com/image-vector/linkedin-icon-logo-type-260nw-792160864.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pngfind.com%2Fpngs%2Fm%2F123-1232187_linkedin-icon-linkedin-hd-png-download.png&tbnid=OAGazSQMEkSVhM&vet=10CEEQMyiEAWoXChMIgPSgktC7gAMVAAAAAB0AAAAAEAI..i&imgrefurl=https%3A%2F%2Fwww.pngfind.com%2Fmpng%2FxxihJi_linkedin-icon-linkedin-hd-png-download%2F&docid=1HMCrSf3VGqkQM&w=840&h=253&q=icone%20linkedin%20png&client=safari&ved=0CEEQMyiEAWoXChMIgPSgktC7gAMVAAAAAB0AAAAAEAI))](https://linkedin.com/in/SamuelLevy)
 
 
 
