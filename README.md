@@ -9,6 +9,8 @@
 
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-SamuelLevy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SamuelLevy/)](https://www.linkedin.com/in/SamuelLevy/)
+<a href="https://www.linkedin.com/in/SamuelLevy/"><img src="https://img.shields.io/badge/-SamuelLevy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SamuelLevy/" alt="LinkedIn" style="height: auto !important;width: 200px !important;" ></a>
+
 
 
 
