@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hello! I'm a recent graduate in Software Engineering, and I'm thrilled to begin my journey of learning and growth in this field. Problem-solving excites me, and I love taking on challenges to improve my skills. I believe adaptability is crucial in the ever-changing world of IT, and I'm confident that my dedication to personal development will make me a valuable addition to any team.<br><br>Though I've finished my formal education, I'm a strong believer in lifelong learning. I'm always on the lookout for new opportunities to stay updated with the latest technologies and gain new skills.<br><br>Since starting my diploma in 2019, I've been exploring various areas and working as a freelance solution developer. This experience has ignited my passion for different technologies. During my second year, I also had industrial training, which helped me gain practical experience.<br><br>My goal is to grow as a Software Engineer and contribute to exciting and innovative projects. I'm open to collaboration and believe every challenge is an opportunity to improve.<br><br>Beyond programming, I enjoy exploring new topics and staying up-to-date with tech trends. Technology is my passion, and I'm eager to connect with like-minded individuals.<br><br>Feel free to reach out if you want to discuss projects or chat about software engineering. I'm open to new connections and opportunities to collaborate.<br><br>Thanks for visiting my GitHub profile! I can't wait to share my projects and discoveries with you.<br>
+<p>
+  <i class="fas fa-user-graduate"></i> Hello! I'm a recent Software Engineering graduate, passionate about technology and problem-solving. I've worked as a freelance developer, honing skills in Python, JavaScript, and Flutter.
+</p>
+<p>
+  <i class="fas fa-rocket"></i> I'm eager to contribute to innovative projects and collaborate with others in the field. Outside programming, I maintain a broad interest in tech trends and developments.
+</p>
+<p>
+  <i class="fas fa-thumbs-up"></i> Thank you for visiting my GitHub profile! Looking forward to sharing my work and learning from the community.
+</p>
 
 
 ## 🌐 Socials:
