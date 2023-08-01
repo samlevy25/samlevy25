@@ -1,13 +1,10 @@
 # 💫 About Me:
-<p>
-  <i class="fas fa-user-graduate"></i> Hello! I'm a recent Software Engineering graduate, passionate about technology and problem-solving. I've worked as a freelance developer, honing skills in Python, JavaScript, and Flutter.
-</p>
-<p>
-  <i class="fas fa-rocket"></i> I'm eager to contribute to innovative projects and collaborate with others in the field. Outside programming, I maintain a broad interest in tech trends and developments.
-</p>
-<p>
-  <i class="fas fa-thumbs-up"></i> Thank you for visiting my GitHub profile! Looking forward to sharing my work and learning from the community.
-</p>
+:man_student: Hello! I'm a recent Software Engineering graduate, passionate about technology and problem-solving. I've worked as a freelance developer, honing skills in Python, JavaScript, and Flutter.
+
+:rocket: I'm eager to contribute to innovative projects and collaborate with others in the field. Outside programming, I maintain a broad interest in tech trends and developments.
+
+:thumbsup: Thank you for visiting my GitHub profile! Looking forward to sharing my work and learning from the community.
+
 
 
 ## 🌐 Socials:
