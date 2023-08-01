@@ -1,16 +1,18 @@
-### Hi there 👋
+# 💫 About Me:
+Hello! I'm a recent graduate in Software Engineering, and I'm thrilled to begin my journey of learning and growth in this field. Problem-solving excites me, and I love taking on challenges to improve my skills. I believe adaptability is crucial in the ever-changing world of IT, and I'm confident that my dedication to personal development will make me a valuable addition to any team.<br><br>Though I've finished my formal education, I'm a strong believer in lifelong learning. I'm always on the lookout for new opportunities to stay updated with the latest technologies and gain new skills.<br><br>Since starting my diploma in 2019, I've been exploring various areas and working as a freelance solution developer. This experience has ignited my passion for different technologies. During my second year, I also had industrial training, which helped me gain practical experience.<br><br>My goal is to grow as a Software Engineer and contribute to exciting and innovative projects. I'm open to collaboration and believe every challenge is an opportunity to improve.<br><br>Beyond programming, I enjoy exploring new topics and staying up-to-date with tech trends. Technology is my passion, and I'm eager to connect with like-minded individuals.<br><br>Feel free to reach out if you want to discuss projects or chat about software engineering. I'm open to new connections and opportunities to collaborate.<br><br>Thanks for visiting my GitHub profile! I can't wait to share my projects and discoveries with you.<br>
 
-<!--
-**samlevy25/samlevy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Samuel Levy) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=samlevy25&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=samlevy25&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samlevy25&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=samlevy25&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
