@@ -1,9 +1,9 @@
 # 💫 About Me:
-:man_student: Hello! I'm a recent Software Engineering graduate, passionate about technology and problem-solving. I've worked as a freelance developer, honing skills in Python, JavaScript, and Flutter.
+:man_student:  Hello! I'm a recent Software Engineering graduate, passionate about technology and problem-solving. I've worked as a freelance developer, honing skills in Python, JavaScript, and Flutter.
 
-:rocket: I'm eager to contribute to innovative projects and collaborate with others in the field. Outside programming, I maintain a broad interest in tech trends and developments.
+:rocket:  I'm eager to contribute to innovative projects and collaborate with others in the field. Outside programming, I maintain a broad interest in tech trends and developments.
 
-:thumbsup: Thank you for visiting my GitHub profile! Looking forward to sharing my work and learning from the community.
+:thumbsup:  Thank you for visiting my GitHub profile! Looking forward to sharing my work and learning from the community.
 
 
 
