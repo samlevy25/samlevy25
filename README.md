@@ -8,7 +8,10 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-levy-software/)
+<a href="https://linkedin.com/in/SamuelLevy" target="_blank">
+  <i class="fab fa-linkedin" style="font-size:30px;"></i>
+</a>
+
 
 
 # 💻 Tech Stack:
