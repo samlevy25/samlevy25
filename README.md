@@ -19,8 +19,8 @@
 # 💻 Tech Stack:
 ## Skills
 
-<div style="display: flex;">
-  <div style="display: flex; flex-direction: column;">
+<div style="display: flex; justify-content: center;">
+  <div>
     <h3>Languages</h3>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -29,23 +29,38 @@
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   </div>
-  <div style="display: flex; flex-direction: column; margin-left: 20px;">
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <div>
     <h3>Hosting</h3>
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
     <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
   </div>
-  <div style="display: flex; flex-direction: column; margin-left: 20px;">
-    <h3>Databases</h3>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black">
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <div>
+    <h3>Frameworks</h3>
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   </div>
 </div>
 
+<div style="display: flex; justify-content: center;">
+  <div>
+    <h3>Databases</h3>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  </div>
+</div>
 
-
-
+<div style="display: flex; justify-content: center;">
+  <div>
+    <h3>Design</h3>
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
+  </div>
+</div>
 
 # 📊 GitHub Stats:
 <p align="center">
