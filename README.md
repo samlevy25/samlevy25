@@ -8,9 +8,8 @@
 
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/SamuelLevy" target="_blank">
-  <i class="fab fa-linkedin" style="font-size:30px;"></i>
-</a>
+[![LinkedIn](https://image.shutterstock.com/image-vector/linkedin-icon-logo-type-260nw-792160864.jpg)](https://linkedin.com/in/SamuelLevy)
+
 
 
 
