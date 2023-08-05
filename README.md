@@ -3,6 +3,7 @@
 
 :man_student:  Hello! I'm a recent Software Engineering graduate, passionate about technology and problem-solving. I'm interested in software development and find great satisfaction in creating applications and solutions that solve real-world problems.
 
+
 :rocket:  I'm eager to contribute to innovative projects and collaborate with others in the field. Outside programming, I maintain a broad interest in tech trends and developments.
 
 💻 **I am interested in software development and find great satisfaction in creating applications and solutions that solve real-world problems. I'm always eager to learn new technologies and take on new challenges to continue growing as a developer.**
