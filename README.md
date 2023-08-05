@@ -1,24 +1,17 @@
 # 💫 About Me:
-:man_student:  Hello! I'm a recent Software Engineering graduate, passionate about technology and problem-solving. I've worked as a freelance developer, honing skills in Python, JavaScript, and Flutter.
+:man_student:  Hello! I'm a recent Software Engineering graduate, passionate about technology and problem-solving. I'm interested in software development and find great satisfaction in creating applications and solutions that solve real-world problems.
 
 :rocket:  I'm eager to contribute to innovative projects and collaborate with others in the field. Outside programming, I maintain a broad interest in tech trends and developments.
 
+**I am interested in software development and find great satisfaction in creating applications and solutions that solve real-world problems. I'm always eager to learn new technologies and take on new challenges to continue growing as a developer.**
+
 :thumbsup:  Thank you for visiting my GitHub profile! Looking forward to sharing my work and learning from the community.
 
-
-
 ## 🌐 Socials:
-
 <a href="https://www.linkedin.com/in/SamuelLevy/"><img src="https://img.shields.io/badge/-SamuelLevy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SamuelLevy/" alt="LinkedIn" style="height: auto !important;width: 200px !important;" ></a>
-
-
-
-
-
 
 # 💻 Tech Stack:
 ## Skills
-
 <div style="display: flex; justify-content: center;">
   <div>
     <h3><strong>Languages</strong></h3>
@@ -63,4 +56,3 @@
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
   </div>
 </div>
-
