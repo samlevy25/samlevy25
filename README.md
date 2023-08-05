@@ -3,7 +3,7 @@
 
 :rocket:  I'm eager to contribute to innovative projects and collaborate with others in the field. Outside programming, I maintain a broad interest in tech trends and developments.
 
-**I am interested in software development and find great satisfaction in creating applications and solutions that solve real-world problems. I'm always eager to learn new technologies and take on new challenges to continue growing as a developer.**
+💻:**I am interested in software development and find great satisfaction in creating applications and solutions that solve real-world problems. I'm always eager to learn new technologies and take on new challenges to continue growing as a developer.**
 
 :thumbsup:  Thank you for visiting my GitHub profile! Looking forward to sharing my work and learning from the community.
 
