@@ -1,5 +1,6 @@
 # 💫 About Me:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 :man_student:  Hello! I'm a recent Software Engineering graduate, passionate about technology and problem-solving. I'm interested in software development and find great satisfaction in creating applications and solutions that solve real-world problems.
 
 :rocket:  I'm eager to contribute to innovative projects and collaborate with others in the field. Outside programming, I maintain a broad interest in tech trends and developments.
